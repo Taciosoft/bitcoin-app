@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-
 import { Layout, Menu, Breadcrumb } from 'antd';
 import { Dropdown, Button, Icon, message } from 'antd';
-import { Spin } from 'antd';
-const { Header, Content, Footer } = Layout;
+const { Header, Content, Footer } = Layout; 
 
 
 
